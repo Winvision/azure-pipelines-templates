@@ -1,1 +1,1 @@
-# auzre-pipelines-templates
+# azure-pipelines-templates
